@@ -1,0 +1,6 @@
+# Project exclude paths
+/.bsp
+/.idea
+/project/target/
+/project/project/target/
+/target/
